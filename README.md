@@ -8,9 +8,7 @@
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
 ## ⚙️ ML Frameworks/Libraries
-‣ Pytorch  
-‣ Tensorflow  
-‣ Keras  
+‣ Pytorch  ‣ Tensorflow  ‣ Keras  
 ‣ Pandas  
 ‣ Scikit-Learn  
 ‣ OpenCV  
