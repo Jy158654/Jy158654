@@ -22,4 +22,3 @@
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)](https://www.arduino.cc/)
-![ESP32 Logo](https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif.png)
