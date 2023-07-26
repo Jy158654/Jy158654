@@ -3,10 +3,15 @@
 
 ## 🎓 A Little Bit About Myself
 💻 EEE student who switches track to __Data Science and Artificial Intelligence__.  
+
 👁 Experienced in Computer Vision
+
 📚 Currenly learning Generative AI, NLP.    
+
 🤖 Do embedded systems programming.    
+
 🏃‍♂️ Enjoy running, badminton, table tennis, futsal.....,etc.  
+
 📧 Drop an email at junyonglee24@gmail.com to connect!  
 
 ## ⚙️ ML Frameworks/Libraries
