@@ -7,7 +7,7 @@
 🤖 I also enjou embedded systems programming in microconcontrollers.  
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
-## ✏ Programming Languages
+## 🗣 Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/C%2B%2B)
