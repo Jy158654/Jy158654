@@ -2,9 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&duration=5000&pause=340&color=000000&center=true&vCenter=true&width=990&height=30&lines=From+Nanyang+Technological+University)](https://git.io/typing-svg)  
 
 ## 🎓 A Little Bit About Myself
-💻 Electrical and Electronic Engineering student who switches track to __Data Science and Artificial Intelligence__.  
-👁 Experienced in Computer Vision and currenly learning different fields of deep learning (ie: NLP, Generative AI).  
-🤖 Do embedded systems programming in different microcontrollers.  
+💻 EEE student who switches track to __Data Science and Artificial Intelligence__.  
+👁 Experienced in Computer Vision
+📚 Currenly learning Generative AI, NLP.    
+🤖 Do embedded systems programming.    
 🏃‍♂️ Enjoy running, badminton, table tennis, futsal.....,etc.  
 📧 Drop an email at junyonglee24@gmail.com to connect!  
 
