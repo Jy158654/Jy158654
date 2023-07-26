@@ -9,7 +9,7 @@
 
 ## 🎓 A Little About Me
 This project is developed for the module IE0005: Intro to Data Science & AI.
-
+👁 I have experiebce in Computer Vision but I am looking forward to explore moore on other sides of deep learning.
 In this project, we focus to:
 
 • Determine the reasons of individuals being stopped by police while driving  
