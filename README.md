@@ -3,7 +3,7 @@
 
 ## 🎓 A Little About Me
 💻 I'm an Electrical and Electronic Engineering student who switched track to __Data Science and Artificial Intelligence__.  
-👁 I have experiebce in Computer Vision but I am looking forward to explore more on other sides of deep learning.  
+👁 I have experiebce in Computer Vision but I am looking forward to explore more on different fields of deep learning.  
 🤖 I also enjou embedded systems programming in microconcontrollers.  
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
