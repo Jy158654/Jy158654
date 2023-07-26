@@ -7,7 +7,7 @@
 🤖 I also enjou embedded systems programming in microconcontrollers.  
 📧 Drop me an email at junyonglee24@gmail.com to connect!
 
-## Introduction
+## 🎓 A Little About Me
 This project is developed for the module IE0005: Intro to Data Science & AI.
 
 In this project, we focus to:
