@@ -7,4 +7,12 @@
 🤖 I also enjou embedded systems programming in microconcontrollers.  
 📧 Drop me an email at junyonglee24@gmail.com to connect!
 
+## Introduction
+This project is developed for the module IE0005: Intro to Data Science & AI.
 
+In this project, we focus to:
+
+• Determine the reasons of individuals being stopped by police while driving  
+• Determine if there are any biases for a police to stop someone based on their gender, race, age etc  
+
+by using the dataset below.
