@@ -8,4 +8,4 @@
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
 ## 🎓 Programming Languages
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName) 
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
