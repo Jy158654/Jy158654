@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=900&size=50&duration=5000&pause=260&color=000000&center=true&vCenter=true&width=1000&height=50&separator=%3C&lines=Hello+there+I+am+Jun+Yong+;%29)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&duration=5000&pause=340&color=000000&center=true&vCenter=true&width=990&height=30&lines=From+Nanyang+Technological+University)](https://git.io/typing-svg)  
 
-## 🎓 A Little About Me
+## 🎓 A Little Bit About Myself
 💻 I'm an Electrical and Electronic Engineering student who switches track to __Data Science and Artificial Intelligence__.  
 👁 I have experiebce in Computer Vision but I am looking forward to explore more on different fields of deep learning.  
 🤖 I also enjoy embedded systems programming in different microcontrollers.  
