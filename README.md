@@ -16,6 +16,7 @@
 ‣ OpenCV  
 ‣ Seaborn  
 ‣ Matplotlib  
+![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/200px-TensorFlowLogo.svg.png)
 
 ## 🌐 Web Scraping Framework Libraries
 ‣ Beautiful Soup  
