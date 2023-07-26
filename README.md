@@ -10,7 +10,7 @@
 ## ⚙️ ML Frameworks/Libraries
 ‣ Pytorch  ‣ Tensorflow  ‣ Keras  ‣ Pandas  ‣ Scikit-Learn  ‣ OpenCV  ‣ Seaborn  ‣ Matplotlib  
 
-## 🌐 Web Scraping Framework Libraries
+## 🌐 Web Scraping Framework/Libraries
 ‣ Beautiful Soup  ‣ Selenium 
 
 ## 👩🏻‍💻 Programming Languages
