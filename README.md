@@ -8,17 +8,10 @@
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
 ## ⚙️ ML Frameworks/Libraries
-‣ Pytorch  ‣ Tensorflow  ‣ Keras  
-‣ Pandas  
-‣ Scikit-Learn  
-‣ OpenCV  
-‣ Seaborn  
-‣ Matplotlib  
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/200px-TensorFlowLogo.svg.png)
+‣ Pytorch  ‣ Tensorflow  ‣ Keras  ‣ Pandas  ‣ Scikit-Learn  ‣ OpenCV  ‣ Seaborn  ‣ Matplotlib  
 
 ## 🌐 Web Scraping Framework Libraries
-‣ Beautiful Soup  
-‣ Selenium 
+‣ Beautiful Soup  ‣ Selenium 
 
 ## 👩🏻‍💻 Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
