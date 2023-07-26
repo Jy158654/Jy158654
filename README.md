@@ -7,7 +7,7 @@
 🤖 I also enjou embedded systems programming in microconcontrollers.  
 📧 Drop me an email at junyonglee24@gmail.com to connect!  
 
-## ⛏ Programming Languages
+## ✏ Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
 [![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -16,3 +16,4 @@
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)](https://www.arduino.cc/)
+![ESP32 Logo](https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif.png)
